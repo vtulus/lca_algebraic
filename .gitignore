@@ -16,3 +16,7 @@ dist
 *.ignore.*
 *all_output.ipynb
 *.bw2
+
+# VSCode stuff
+.vscode
+*.code-workspace
